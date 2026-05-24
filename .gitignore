@@ -1,0 +1,3 @@
+# Keep temporary source audio out of the hosting repo.
+assets/audio/read-messages/*.mp3
+*.zip
